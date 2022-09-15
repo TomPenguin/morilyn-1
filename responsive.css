@@ -1,0 +1,25 @@
+@media (max-width: 600px) {
+  .topimage {
+    height: 634px;
+  }
+
+  .container {
+    display: flex;
+    flex-flow: column;
+  }
+
+  .listcontainer ul {
+    display: flex;
+    flex-flow: column;
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+
+  .listcontainer img {
+    margin-top: 15px;
+  }
+
+  footer {
+    margin-top: 135px;
+  }
+}
